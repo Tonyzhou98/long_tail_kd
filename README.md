@@ -1,7 +1,7 @@
 # BalDistill
 
 **Paper**:  
-Yuhang Zhou, Jing Zhu, Paiheng Xu, Xiaoyu Liu, Xiyao Wang, Danai Koutra, Wei Ai, Furong Huang  
+Yuhang Zhou*, Jing Zhu*, Paiheng Xu, Xiaoyu Liu, Xiyao Wang, Danai Koutra, Wei Ai, Furong Huang  
 *Multi-Stage Balanced Distillation: Addressing Long-Tail Challenges in Sequence-Level Knowledge Distillation*  
 [Link to Paper](https://arxiv.org/abs/2406.13114)
 
