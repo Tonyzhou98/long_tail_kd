@@ -45,4 +45,3 @@ python llama2_classification_inference.py --experiment_dir experiments/active_le
 - **{llm_checkpoint}**: Checkpoint to store the Hugging Face format Llama2 or Llama3
 - **{budget_number}**: The budget number for each domain. For abstractive-qa, it is 1,000 or 2,000
 - **{fine-tuned_checkpoint}**: After fine-tuning, a checkpoint folder will appear in `experiments/active_learning/`
-```
